@@ -15,7 +15,7 @@
 
 ## Sobre o Projeto
 
-O F4bank foi o primeiro projeto realizado em grupo. Neste projeto eu fui responsável por fazer a parte do formulário. Mas, a finalidade desse projeto foi muito além de aplicar conhecimentos em HTML e CSS para construir uma landing page. Nos possibilitou trabalhar em grupo, superar os desafios de horários e trocar conhecimento, já que todos nós vinhamos estudando sozinhos antes de fazer o Bootcamp da Labenu.
+O F4bank foi o primeiro projeto realizado em grupo. Neste projeto eu fui responsável por fazer a parte do formulário. Mas, a finalidade desse projeto foi muito além de aplicar conhecimentos de HTML e CSS para construir uma landing page. Nos possibilitou trabalhar em grupo, superar os desafios de horários e trocar conhecimento, já que todos nós vinhamos estudando sozinhos antes de fazer o Bootcamp da Labenu.
 
 Durante a construção do projeto o maior desafio foi a questão da disponibilidade de horários para nos reunir. Porém, o superamos e utilizamos técnicas da metodologia ágil Scrum e utilizamos o Trello para mapearmos a nossa evolução.
 
@@ -25,7 +25,7 @@ Além disso, também tivemos problemas de conflitos de códigos que terminou fic
 
 - ✅ Conflitos no versionamento de códigos.
 - ✅ Problemas de responsividade.
-- ✅ Excui arquivos desnecessários para o projeto e que estavam ocupando espaço útil.
+- ✅ Exclui arquivos desnecessários para o projeto e que estavam ocupando espaço útil de memória.
 - ✅ Realizei pull request para os colegas aceitarem as alterações na branch original do projeto.
   
 
@@ -37,7 +37,7 @@ Além disso, também tivemos problemas de conflitos de códigos que terminou fic
   
 # Deploy
 
-O projeto original foi hospedado no Surge mas eu decidi hospedar esta versão na Vercel. Pessoalmente é o servidor que atualmente gosto de hospedar meus projetos. Possui um layout que me agrada, facil e rápido para configurar o deploy, possui possibilidade de ver as atualizações feitas em 'tempo real' de produção e aparentemente o link não expira após 298 dias.
+O projeto original foi hospedado no Surge mas eu decidi hospedar esta versão na Vercel. Pessoalmente é o servidor que atualmente gosto de hospedar meus projetos. Isto porque possui um layout que me agrada, fácil e rápido para configurar o deploy, possui possibilidade de ver as atualizações feitas em 'tempo real' de produção e aparentemente o link não expira após 298 dias.
 
 Projeto original - junh 18, 2022
 
